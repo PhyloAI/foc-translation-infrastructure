@@ -50,4 +50,4 @@ This repository provides **open, reusable building blocks** for treating floras/
 
 ## Repository layout
 See `docs/DATA_DICTIONARY.md` for column definitions and file-level descriptions.
-
+For a beginner-friendly worked example, see [STEP_BY_STEP_GUIDE_Rosaceae.md].
